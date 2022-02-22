@@ -35,3 +35,11 @@ About which predictor variables have the largest effect on the tendency of being
 
 Moreover, it is worthwhile to note that in this dataset, only basic personal information of employee is mentioned. Unemployment rate is also affected by academic qualifications, as well as macroeconomic factors such as the condition of global and domestic economy. The ‘Year ‘ variable is ranked at the first place in the variable importance list indicating that labor force indicators (employment/unemployment rates, etc) are highly dependent on global economy changes.
 
+### Necessary acknowledgments
+- Data source: https://data.gov.uk/dataset/fe6c83aa-62aa-4a8c-94cc-225f47287225/unemployment-by-ethnicity
+- Reference: 
+  Economic effects of Brexit: https://en.wikipedia.org/wiki/Economic_effects_of_Brexit#:~:text=Immediate%20impact%20on%20the%20UK%20economy,-Immediate%20impact%20of&text=Studies%20published%20in%202018%20estimated,by%200.6%25%20and%201.3%25.
+  United Kingdom Unemployment Rate: https://tradingeconomics.com/united-kingdom/unemployment-rate
+  Unemployment - Ethnicity facts and figures in UK: https://www.ethnicity-facts-figures.service.gov.uk/work-pay-and-benefits/unemployment-and-economic-inactivity/unemployment/latest
+
+
